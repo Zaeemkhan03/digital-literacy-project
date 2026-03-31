@@ -1,10 +1,10 @@
 # 👩🏻‍💻 DIGITAL LITERACY [CSE0001] 👩🏻‍💻
 
-**Name :** Shamique Khan  
-**Reg No. :** 25BAI10187  
+**Name :** Zaeem Khan  
+**Reg No. :** 25MEI10036
 **University :** VIT Bhopal University
-**Branch :** B.Tech. CSE AI ML  
-**Year :** 2025-29
+**Branch :** INT MTECH CYBERSECURITY  
+**Year :** 2025-30
 
 # 📝 Description
 
@@ -46,13 +46,13 @@ https://docs.google.com/forms/d/e/1FAIpQLSfxcMV1pW5UwaiuK6bvAkl1JFsotcfDpGWeUNWc
 
 **👩🏻‍💻 Github :**
 
-https://github.com/shamiquekhan
+https://github.com/Zaeemkhan03
 
 **💡 Linkedin :**
 
-www.linkedin.com/in/shamique-khan
+https://www.linkedin.com/in/zaeem-khan-b4136537a/
 
 **⚙️ Kaggle :**
 
-[https://www.kaggle.com/](https://www.kaggle.com/shamiquekhan)
+https://www.kaggle.com/zaeemkhan03
 # # digital-literacy-project
